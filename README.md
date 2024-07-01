@@ -36,6 +36,12 @@ To measure the effectiveness and impact of the Olist study on consumer behavior,
 - Payment method preference by customers (by orders and by payment value)
 - Payment method preference by geographical location
 
+# Some resources to refer
+In order to have an overview of consumer behavior and its variation of time and other factors and comparison of online and offline shopping environments, these resources can be referred :
+- https://repository.up.ac.za/bitstream/handle/2263/29162/02chapter2.pdf?sequence=3
+- https://www.researchgate.net/publication/362760297_THEORY_AND_MODELS_OF_CONSUMER_BUYING_BEHAVIOUR_A_DESCRIPTIVE_STUDY
+- https://www.researchgate.net/publication/334942312_Online_Shopping_vs_Offline_Shopping_A_Comparative_Study 
+
 # Conclusion
 This project aims to provide actionable insights into consumer behavior using Olist data, contributing to both academic research and practical applications in marketing and e-commerce. 
 By analyzing both online and offline shopping behaviors, we aim to uncover nuanced insights that can drive strategic decision-making and enhance customer experiences.
